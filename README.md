@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ester 👋
 
-<!--
-**cyberkitty418/cyberkitty418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer and a student at **CTU FEL** (Czech Technical University in Prague, Faculty of Electrical Engineering).
+I mostly write in **Java** with **Spring Boot**, and I enjoy building things that are structured, tested and actually run on the first try (occasionally).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 How I work
+I'm a team person. I like clear tasks, clean branches, tidy issues and a Kanban board that reflects reality.
+In group projects I usually end up organizing everything: planning, splitting tasks, reviewing and reminding people about deadlines.
+Some would call it leadership. My teammates would call it being *a little bit bossy*. Both are correct. 🐱
+
+### 😼 About this GitHub
+The code here is serious. The READMEs, commit messages and job titles... less so.
+I believe a project can be well-organized and still fun to read, so expect some humor along the way.
+
+### 🏷️ Unofficial job titles (semester project edition)
+~~Dictator~~ Project Manager & Team Lead & Software Architect & Scrum Master
+& DevOps & QA & Emotional Support Developer.
+*(When your team has 3 people, you collect roles like Pokémon.)*
