@@ -14,6 +14,6 @@ Some would call it leadership. My teammates would call it being *a little bit bo
 The code here is serious. The READMEs, commit messages and job titles... less so.
 I believe a project can be well-organized and still fun to read.
 
-### 🏷️ Unofficial job titles (semester project edition)
+### 🏷️ Unofficial job titles (Semester Project Edition)
 ~~Dictator~~ Project Manager & Team Lead & Software Architect & Scrum Master
 & DevOps & QA & Emotional Support Developer.
