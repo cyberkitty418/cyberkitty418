@@ -6,7 +6,7 @@ I mostly write in **Java** with **Spring Boot**, and I enjoy building things tha
 ---
 
 ### 🤝 How I work
-I'm a team person. I like clear tasks, clean branches, tidy issues and a Kanban board that reflects reality.
+I like clear tasks, clean branches, tidy issues and a Kanban board that reflects reality.
 In group projects I usually end up organizing everything: planning, splitting tasks, reviewing and reminding people about deadlines.
 Some would call it leadership. My teammates would call it being *a little bit bossy*. Both are correct. 🐱
 
