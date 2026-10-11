@@ -17,4 +17,3 @@ I believe a project can be well-organized and still fun to read.
 ### 🏷️ Unofficial job titles (semester project edition)
 ~~Dictator~~ Project Manager & Team Lead & Software Architect & Scrum Master
 & DevOps & QA & Emotional Support Developer.
-*(When your team has 3 people, you collect roles like Pokémon.)*
