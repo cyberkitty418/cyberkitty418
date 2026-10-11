@@ -12,7 +12,7 @@ Some would call it leadership. My teammates would call it being *a little bit bo
 
 ### 😼 About this GitHub
 The code here is serious. The READMEs, commit messages and job titles... less so.
-I believe a project can be well-organized and still fun to read, so expect some humor along the way.
+I believe a project can be well-organized and still fun to read.
 
 ### 🏷️ Unofficial job titles (semester project edition)
 ~~Dictator~~ Project Manager & Team Lead & Software Architect & Scrum Master
