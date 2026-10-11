@@ -1,7 +1,7 @@
 # Hi, I'm Ester 👋
 
 I'm a backend developer and a student at **CTU FEL** (Czech Technical University in Prague, Faculty of Electrical Engineering).
-I mostly write in **Java** with **Spring Boot**, and I enjoy building things that are structured, tested and actually run on the first try (occasionally).
+I mostly write in **Java** with **Spring Boot**.
 
 ---
 
